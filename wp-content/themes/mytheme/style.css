@@ -1,0 +1,19 @@
+/*
+Theme Name: My Custom Theme
+Theme URI: http://example.com/mytheme
+Author: Deepak
+Author URI: http://example.com
+Description: A lightweight custom WordPress theme built for Docker CI/CD.
+Version: 1.0
+License: GPLv2 or later
+Text Domain: mytheme
+*/
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  margin: 40px;
+}
+h1 {
+  color: #2c3e50;
+}
+
