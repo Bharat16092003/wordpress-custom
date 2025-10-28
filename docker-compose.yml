@@ -19,7 +19,7 @@ services:
 
   wordpress:
     container_name: wordpress
-    image: mywordpress:latest
+    image: bharat183/mywordpress:latest
     environment:
       WORDPRESS_DB_HOST: mysql
       WORDPRESS_DB_PORT: 3306
